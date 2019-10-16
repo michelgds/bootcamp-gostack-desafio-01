@@ -5,7 +5,7 @@
   "repository": "git@github.com:michelgds/bootcamp-gostack-desafio-01.git",
   "author": "michel <michel.gds@hotmail.com>",
   "license": "MIT",
-  "script": {
+  "scripts": {
     "dev": "nodemon index.js"
   },
   "dependencies": {
